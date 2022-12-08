@@ -1,0 +1,19 @@
+###
+GET http://localhost:8080/medical-product/b517b9ae-6a7d-11ed-a9a6-024c0a8c002
+
+<> 2022-12-08T195438.400.json
+<> 2022-12-08T195441.200.json
+
+###
+GET http://localhost:8080/animals/61158-ptichka_vetka_zheltaya.html
+
+<> 2022-12-08T195441.200.json
+<> 2022-12-08T195438.400.json
+
+
+### Метод add
+GET http://localhost:8080/store/order/add
+
+
+### Метод get
+GET http://localhost:8080/store/order/get
